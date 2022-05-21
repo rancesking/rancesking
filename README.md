@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rancesking
 - 👀 I’m interested in Python and Devops
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Making good scripts for DevOps Usage.
+- 💞️ I’m looking to collaborate making some good scripts for DevOps Usage.
 - 📫 How to reach me at my email ing.rancesacosta@gmail.com
 
 <!---
